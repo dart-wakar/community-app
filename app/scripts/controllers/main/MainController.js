@@ -208,6 +208,7 @@
             scope.logout = function () {
                 scope.currentSession = sessionManager.clear();
                 scope.resetPassword = false;
+                navigator.credentials.requireUserMediation();
                 location.path('/').replace();
             };
 

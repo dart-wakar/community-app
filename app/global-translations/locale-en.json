@@ -565,6 +565,7 @@
 
     "#Buttons": "..",
     "label.button.login": "Login",
+    "label.button.autosignin": "Auto Sign In",
     "label.button.approve": "Approve",
     "label.button.offices": "Offices",
     "label.button.loanofficers": "Loan Officers",
